@@ -1,0 +1,33 @@
+_repo: A-Voyage-to-Terra-Australis---Volume-2--13-Undertaken-for-the-purpose-of-completing-the-disco__13121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flinders, Matthew
+    birthdate: 1774
+    deathdate: 1814
+    gutenberg_agent_id: '4720'
+    url: http://www.gutenberg.org/2009/agents/4720
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Flinders
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Discovery and exploration'
+- !lcsh 'Voyages and travels'
+- !lcc 'DU'
+- !lcc 'G'
+title: "A Voyage to Terra Australis — Volume 2\r\nUndertaken for the purpose of completing\
+  \ the discovery of that vast country, and prosecuted in the years 1801, 1802 and\
+  \ 1803, in His Majesty's ship the Investigator, and subsequently in the armed vessel\
+  \ Porpoise and Cumberland schooner"
+url: http://www.gutenberg.org/ebooks/13121
