@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4720
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Flinders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13121#A-Voyage-to-Terra-Australis---Volume-2--13-Undertaken-for-the-purpose-of-completing-the-disco_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-08-06'
 gutenberg_type: Text
